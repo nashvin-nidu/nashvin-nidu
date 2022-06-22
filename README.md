@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nashvin-nidu
+- 👀 I’m interested in Full Stack Development and Data Science
+- 🌱 I’m currently learning Back End Development
+- 💞️ I’m looking to collaborate on Web Development Projects, Feel free to contact 
+- 📫 How to reach me Twitter: @Nashvin_Nidu Linkdin:Nashvin Nidu 
